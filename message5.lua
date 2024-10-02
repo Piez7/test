@@ -3036,7 +3036,7 @@ RFDSOUTH.BackgroundTransparency = 1.000
 RFDSOUTH.Position = UDim2.new(-0.117, 0, -0.137, 0)
 RFDSOUTH.Size = UDim2.new(1.232, 0, 1.274, 0)
 RFDSOUTH.ZIndex = 3
-RFDSOUTH.Image = "http://www.roblox.com/asset/?id=117758175731545"
+RFDSOUTH.Image = "http://www.roblox.com/asset/?id=133698854971187"
 
 LAR.Name = "LAR"
 LAR.Parent = VStar

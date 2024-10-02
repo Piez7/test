@@ -3034,7 +3034,7 @@ RFDSOUTH.Parent = VStar
 RFDSOUTH.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 RFDSOUTH.BackgroundTransparency = 1.000
 RFDSOUTH.Position = UDim2.new(0.115596242, 0, 0.40625, 0)
-RFDSOUTH.Size = UDim2.new(0.525240302, 0, 0.462740391, 0)
+RFDSOUTH.Size = UDim2.new(1.232, 0, 1.274, 0)
 RFDSOUTH.ZIndex = 3
 RFDSOUTH.Image = "http://www.roblox.com/asset/?id=117758175731545"
 
